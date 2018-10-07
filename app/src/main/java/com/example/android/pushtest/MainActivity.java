@@ -9,11 +9,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-    }
 
-    public void ThisBetterWork(){
-        int testing = 12;
-        int yo = 12 + 12;
     }
 
     public void run(){
