@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
         Test runner = new Test();
         Test runnee = new Test();
         Test runnet = new Test();
-        runnet.age = 23;
+        runnet.rougue();
          runnee.hard = 1;
          runner.tester();
 
