@@ -6,7 +6,7 @@ public class Test {
         String color = "  ";
 
         void tester(){
-            System.out.println("ykibaiweiwqe");
+            System.out.println("yesssoooooooooo!!!!!!!!!!!");
 
         }
         public int rougue(){
